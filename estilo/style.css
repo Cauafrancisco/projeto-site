@@ -7,6 +7,10 @@ body {
 
 }
 
+img.Lado{
+float: right;
+}
+
 main{
     background-color: #d8d3dc;
     width: 500px;
